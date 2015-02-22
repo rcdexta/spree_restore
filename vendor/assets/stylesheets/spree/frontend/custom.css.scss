@@ -3,5 +3,15 @@ body {
 }
 
 #spree-header {
-  background: #393733;
+  background: #494743;
+}
+
+#taxonomies a,.list-group-item, .breadcrumb {
+  background-color: #ece7e2;
+  color: #000;
+  box-shadow: 3px 1px 5px #888;
+}
+
+#products .panel {
+  box-shadow: 3px 1px 5px #888;
 }
