@@ -15,3 +15,18 @@ body {
 #products .panel {
   box-shadow: 3px 1px 5px #888;
 }
+
+.product-body {
+  height: 190px;
+
+  a {
+    max-height: 200px;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 118px;
+  }
+}
