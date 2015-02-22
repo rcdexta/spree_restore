@@ -13,7 +13,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # gem 'bcrypt', '~> 3.1.7'
-gem 'spree'
+gem 'spree', github: 'spree/spree'
+gem 'spree_auth_devise', github: 'spree/spree_auth_devise'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
